@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from GitHub!" << endl;
+    cout << "Hello again from GitHub Desktop!" << endl;
     cout << "My first C++ repository is now live" << endl;
     
     // Simple calculation
